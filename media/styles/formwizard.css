@@ -1,0 +1,62 @@
+fieldset.sectionwrap{ /*fieldset that wraps around each form "page" */
+width: 1220px;
+border-width:0;
+padding:5px;
+}
+
+legend{ /*title shown at top of each form page */
+font-weight: lighter;
+font-size: 20px;
+color: #47A6FF;
+text-transform: uppercase;
+text-decoration: underline;
+text-align: center;
+}
+
+div.stepsguide{ /*div that contains all the "steps" text located at top of form */
+width: 1220px;      /*width of "steps" container*/
+overflow:hidden;
+margin-bottom:15px;
+margin-top:15px;
+cursor:pointer;
+align-content: center;
+
+}
+
+div.stepsguide .step{ /*div that wraps around each "steps" text */
+width:10%; /*width of each "steps" text*/
+font-family: 'Montserrat', sans-serif;
+font-weight: 400;
+font-size: 25px;
+float:left;
+}
+
+div.stepsguide .disabledstep{ /*div that wraps around each "steps" text */
+color:#C4C4C4;
+}
+
+div.stepsguide .step .smalltext{ /*small footer text inside "steps" text */
+font-size: 15px;
+ color: #85A1FF;
+font-weight: normal;
+text-transform: uppercase;
+}
+
+div.formpaginate{ /* CSS for pagination DIV container */
+width: 100%;
+overflow:hidden;
+font-weight:lighter;
+text-align:center;
+margin-top:1em;
+}
+
+div.formpaginate .prev, div.formpaginate .next{ /*CSS for "prev" and "next" SPAN elements within paginate container */
+border-radius:5px;
+-webkit-border-radius:5px;
+-moz-border-radius:5px;
+padding:2px 5px;
+background: #022169 url(../theme/scenario2015/pattern_bg.png);
+color:white;
+cursor:hand;
+cursor:pointer;
+}

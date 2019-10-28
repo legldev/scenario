@@ -1,0 +1,1 @@
+<?php if (stristr(htmlentities($_SERVER['PHP_SELF']),'index.php')) { header('Location: ../index.php'); die(); }
