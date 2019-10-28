@@ -1,0 +1,280 @@
+------------------------------------------------------------
+// Abril 15, 2015
+
+- Primer Dia del proyecto.
+- Organizacion de Datos.
+- Organizacion de Directorios
+- Investigacion.
+- Maquetacion.
+- Creacion de Login y Logout.
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 16, 2015
+
+- Creacion de Base de Datos: Scenario
+- Creacion de Tabla: global_users
+- Registro de Usuario: signup.php
+- Creado registro y sesión de usuarios.
+
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 17, 2015
+
+- Investigacion y Planificacion
+- Pruebas
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 18, 2015
+
+- Creacion de Interfaz de añadir escenario
+- Pruebas.
+- Diseño de Matriz de Escenario.
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 19, 2015
+- Diseño de Matriz de Escenario (Continuación).
+- Diseño de Asientos.
+- Diseño de Mesas.
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 20, 2015
+- Trabajos en Base De Datos.
+- Creacion Tabla "global_scenarios"
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 21, 2015
+- Trabajos en Base De Datos.
+- Programacion y Modificacion de de tabla "global_scenarios"
+- Disponiblilidad para guardar informacion Principal de Escenarios
+- Modificacion a la seccion "Escenarios".
+- Creacion de la Barra Superior de Navegacion "toolbar_nav.php"
+- Estilos para la Barra Superior de Navegacion
+- Creado events.php
+- Creado settings.php
+- Creado tickets.php
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 22, 2015
+- Modificaciones de Diseño Grafico.
+- Construccion del Motor Light Enginer 0.1v (Fase Gamma)
+- Modificacion al Diseño del Login principal.
+- Modificacion a la hoja de Estilos.
+- Creada tabla "global_areas"
+- Modificada tabla "global_structure"
+- Creando la modalidad de guardar la estructura del escenario.
+- Se pueden guardar el numero de filas y sillas.
+- Programando Seleccion de Areas.
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 23, 2015
+- Revision de Sistema.
+- Creado directorio "/admin"
+- Creado directorio "/media/images"
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 24, 2015
+- Modificacion de Estilos CSS
+- Login Centrado.
+- Insertando Funciones JavaScript para mejorar formularios.
+- Creando funcion para implementar Areas.
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 25, 2015
+- Creada Copia de Seguridad en la nube.
+- Revision de Sistema y Correcion de Detalles.
+- Pruebas y Ajustes.
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 26, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Correccion en Sistema de Areas, Error "Undefined Offset" Eliminado
+- Agregado nuevo Sistema de Ayuda.
+- Agregado sistema de funciones "light-common"
+- Creada tabla "global_chairs"
+- Modificada tablar "global_areas"
+- Añadidos nuevos parametros para guardar estructura de escenario.
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 27, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Modificaciones Menores
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 28, 2015
+- Creando modelo esqueleto de Areas de Escenario
+- Revision de Sistema y Correcion de Detalles.
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 29, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Creada tabla "global_events"
+------------------------------------------------------------
+------------------------------------------------------------
+// Abril 30, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Revision y Correccion a la Base de Datos.
+- Añadiendo Informacion y campos a la Base de Datos.
+- Modificada tabla "global_users"
+- Creada de nuevo "global_areas"
+- Creada de nuevo "global_chairs"
+- Creada de nuevo "global_events"
+- Modificada tabla "global_structure"
+- Creada tabla "global_configuration"
+- Creada tabla "global_tickets"
+- Cambiado a Motor InnoDB
+------------------------------------------------------------
+// Mayo 01, 2015
+- Creada Copia de Seguridad en la nube.
+- Revision de Sistema y Correcion de Detalles.
+------------------------------------------------------------
+// Mayo 02, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Creada tabla "global_admin"
+- Modificada "global_configuration"
+- Creado "load_config.php"
+- Construyendo framework del motor Light Enginer
+- Creado manejador de contenido "content.php"
+------------------------------------------------------------
+// Mayo 03, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Construcción del Motor Light Enginer.
+- Creacion de Defines.
+- Creacion de Framework
+- Creado "light-html"
+- Creada estructura PHP para HTML.
+- Creado diseño HTML5.
+- Configurado diseño adaptivo HTML5.
+- Modificaciones a la Base de Datos.
+- Modiciaciones a los estilos principales.
+- Conformando programacion abstracta.
+- Conformando bibliotecas y archivos del Motor Light Enginer
+- Integrado Sistema de Errores.
+- Importacion de Bibliotecas.
+------------------------------------------------------------
+// Mayo 04, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Corrigiendo errores del sistema.
+- Motor Light Enginer casi integrado.
+------------------------------------------------------------
+// Mayo 05, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Corrigiendo errores del sistema.
+- Motor Light Enginer integrado, en expansion.
+- Nuevas funciones para crear urls con formato de modulos.
+- Añadida funcion de eliminar escenarios
+- Mejorados scripts de "light-html
+------------------------------------------------------------
+// Mayo 06, 2015
+- Creada Copia de Seguridad en la nube.
+- Programando Areas de Escenarios.
+- Revision de Sistema y Correcion de Detalles.
+- Corrigiendo errores del sistema.
+------------------------------------------------------------
+// Mayo 07, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Corrigiendo errores del sistema.
+------------------------------------------------------------
+// Mayo 08, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Agregado index.html a directorios y carpetas como medida de seguridad.
+- Agregado funciones extras a session.php
+- Agregado funciones basicas al motor Light Enginer.
+- Modificado "global-footer_content.php"
+------------------------------------------------------------
+// Mayo 09, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Corrigiendo errores del sistema.
+- Modificando estilo y diseño de secciones.
+------------------------------------------------------------
+// Mayo 10, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Corrigiendo errores del sistema.
+- Modificando estilo y diseño de secciones.
+- Implementando funciones JavaScript.
+- Limpiando formato y estructura HTML.
+------------------------------------------------------------
+// Mayo 11, 2015
+- Correcion de Detalles.
+- Modificando estilo y diseño de secciones, "signup" "scenarios" y otras.
+- Implementando funciones JavaScript Ajax.
+- Limpiando formato y estructura HTML.
+- Agregando cabeceras e informacion a archivos y scripts.
+Nueva Cabecera
+||Comienza Aqui
+<?php //----------------------------------------------------------------------------------
+//  (C) 2015 Something Special | www.doitspecial.com | contacto
+//  filename: content.php | version: v0.9 | date: 13/06/10 - 00:00:00 | id: 0000
+//----------------------------------------------------------------------------------------
+//  Content Manager
+//----------------------------------------------------------------------------------------
+||Termina Aqui
+- Organizando y dando formato a hojas de estilo.
+- Agregada nueva tipografia.
+- Configurando nuevos estilos y tipografia "Open Sans" "Monserrat" "Roboto"
+- Aumentado tamaño de pantalla.
+- Agregando funciones de seguridad a ciertos Scripts.
+- Agregando diseños y estilos a titulos.
+------------------------------------------------------------
+// Mayo 12, 2015
+- Agregando diseños y nuevos estilos.
+- Creando seccion "eventos"
+- Creando seccion "entradas"
+- Creado "global-index_content"
+------------------------------------------------------------
+// Mayo 13, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Corrigiendo errores del sistema.
+------------------------------------------------------------
+// Mayo 14, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Corrigiendo errores del sistema.
+- Modificada cabecera. Simplificada
+- Modificado logo de usuario.
+- Modificando archivo de configuracion.
+- Creando funciones para cargar parametros del sistema desde la base de datos SQL.
+- Organizando Estructura HTML.
+- Organizando Estructura PHP.
+------------------------------------------------------------
+// Mayo 15, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Corrigiendo errores del sistema.
+- Dando estructura a todas las secciones.
+- Añadido icono a cabecera.
+- Cargados parametros a cabecera.
+- Organizada estructura de temas.
+- Diseñada nueva estructura de escenario.
+- Creada nueva estructura de escenario.
+- Mejorados y organizados scripts de "light-html"
+------------------------------------------------------------
+// Mayo 16, 2015
+- Revision de Sistema y Correcion de Detalles.
+- Corrigiendo errores del sistema.
+- Organizada Estructura "main"
+- Modificando estilo y diseño de secciones.
+- Añadidas funciones faltantes al motor.
+- Subiendo a servidor FTP
+- Creada Copia de Seguridad en la nube.
+- Pruebas y Ajustes.
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+// Mayo 20, 2015
+- Iniciando Fase Alfa
+- Revision y Correciones.
+- Diseñando Interfaz de Lenguaje.
+------------------------------------------------------------
+// Mayo 21, 2015
+- Diseñando y Compilando Interfaz de Lenguaje.
+- Revision y Correciones.
+------------------------------------------------------------
+// Mayo 22, 2015
+- Creada funcion de Activación/Desactivacion del Sistema
